@@ -33,6 +33,9 @@ For Gemini 3:
 5. Multiply the relative reward of each wallet with the aggregated token allocation for each testnet period
 6. Multiply the relative allocation of each wallet with the token supply (1B token) to get the absolute number of tokens per wallet"
 
+## Stake Wars 1 allocations
+Can be found in the [XLSX File](https://github.com/subspace/incentivized-testnets/blob/main/Stake%20Wars%201.xlsx). An explanation of the rewards structure can be found on [the Autonomys forum](https://forum.autonomys.xyz/t/stake-wars-introduction/2060#rewards-9).
+
 ## Node archives
 Archive of Subspace incentivized testnets node databases includes:
 - 2 Farmnet networks: pre-stress test (usable with 2022-jan-05 snapshot), and stress test
