@@ -20,7 +20,7 @@ Detailed breakdown of all incentivized testnets and exact calculation formulas c
 
 **Second Incentive (only wallets with 3 tSSC balance are qualified):**
 1. Calculate the relative reward for each wallet
-2. Distribute the allocation of 0.05% to all wallets (only above 3tSSC) proportional to their relative reward
+2. Distribute the allocation of 0.5% to all wallets (only above 3tSSC) proportional to their relative reward
 
 ### Gemini 3:
 1. Determine the proportions of each testnet for 3F-3H Pool 1 (numbers of blocks generated during the testnet divided by the number of all blocks)
