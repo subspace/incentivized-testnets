@@ -1,4 +1,6 @@
 # Subspace Incentivized Testnets Archive
+## Gemini Incentivized Phases Rewards Summary
+![Gemini Incentivized Phases Rewards Summary](<Gemini Incentivized Phases.png>)
 ## Farming Reward Allocations
 Final farming reward allocations (excluding Stake Wars 1) can be found in the [CSV file](https://github.com/subspace/incentivized-testnets/blob/main/Final_farming_rewards.csv).
 
