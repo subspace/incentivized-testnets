@@ -8,7 +8,7 @@ Final Gemini farming reward allocations (excluding Aries stress test and Stake W
 Detailed breakdown of the data can be found in the [XLSX file](https://github.com/subspace/incentivized-testnets/blob/main/Aries%20Stress%20Test.xlsx) which was created as follows:
 1. Identify all wallets that participated in the Aries stress test.
 2. Determine Gemini rewards for each wallet.
-3. Any with a non-zero Gemini rewards balance have an equal share of the 0.01% allocation.
+3. Any with a non-zero Gemini rewards balance have an equal share of the 0.1% allocation.
 
 ### Gemini Breakdown
 Detailed breakdown of all incentivized testnets and exact calculation formulas can be found in the [XLSX file](https://github.com/subspace/incentivized-testnets/blob/main/Subspace%20Testnet%20Token%20Distribution%20List_calculations_FINAL.xlsx) which was created as follows:
