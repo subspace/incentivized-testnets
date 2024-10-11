@@ -1,9 +1,16 @@
 # Subspace Incentivized Testnets Archive
-## Gemini Incentivized Phases Rewards Summary
-![Gemini Incentivized Phases Rewards Summary](<Gemini Incentivized Phases.png>)
+## Incentivized Phases Rewards Summary
+![Incentivized Phases Rewards Summary](<Incentivized Testnet Phases.png>)
 ## Farming Reward Allocations
-Final farming reward allocations (excluding Stake Wars 1) can be found in the [CSV file](https://github.com/subspace/incentivized-testnets/blob/main/Final_farming_rewards.csv).
+Final Gemini farming reward allocations (excluding Aries stress test and Stake Wars 1) can be found in the [CSV file](https://github.com/subspace/incentivized-testnets/blob/main/Final_farming_rewards.csv).
 
+### Aries Stress Test
+Detailed breakdown of the data can be found in the [XLSX file](https://github.com/subspace/incentivized-testnets/blob/main/Aries%20Stress%20Test.xlsx) which was created as follows:
+1. Identify all wallets that participated in the Aries stress test.
+2. Determine Gemini rewards for each wallet.
+3. Any with a non-zero Gemini rewards balance have an equal share of the 0.01% allocation.
+
+### Gemini Breakdown
 Detailed breakdown of all incentivized testnets and exact calculation formulas can be found in the [XLSX file](https://github.com/subspace/incentivized-testnets/blob/main/Subspace%20Testnet%20Token%20Distribution%20List_calculations_FINAL.xlsx) which was created as follows:
 1. Calculate all tokens that were generated during each testnet period Gemini 1, 2, 3f and 3g  (total number of tokens)
 2. Calculate all rewards that were generated during each testnet period 3h pool 1 and 3h pool 2  (total number of rewards)
