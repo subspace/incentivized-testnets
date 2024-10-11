@@ -20,12 +20,9 @@ with open(input_file, 'r') as csvfile:
     for row in csvreader:
         address = row[0].strip()
         balance = parse_number(row[1], sheet_precision)
-        allocations.append({
-            "address": address,
-            "balance": balance
-        })
+        allocations.append([address, balance])
 
 with open(output_file, 'w') as jsonfile:
-    json.dump(allocations, jsonfile, indent=2)
+    json.dump(allocations, jsonfile, separators=(',', ':'))
 
 print(f"Conversion complete. JSON data written to {output_file}")
