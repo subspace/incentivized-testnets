@@ -1,17 +1,24 @@
 # Subspace Incentivized Testnets Archive
 ## Incentivized Phases Rewards Summary
 ![Incentivized Phases Rewards Summary](<Incentivized Testnet Phases.png>)
+## Astral Rewards Checker
+The quickest and easiest way to view your reward allocations is to connect your wallet to the rewards checker in Astral. You can find it [here](https://astral.autonomys.xyz/gemini-3h/testnet-rewards).
+
+The rewards checker is based on the data in [this spreadsheet](https://github.com/subspace/incentivized-testnets/blob/main/AstralTestnetRewards.xlsx) which consolidates all the information below at greater precision and rounds all allocations up to the next whole token. You can read more about moving from preview to final data on [the Autonomys forum](TODO). The same data is available as a CSV [here](https://github.com/subspace/incentivized-testnets/blob/main/AstralTestnetRewards.csv).
+
+The preview spreadsheets and CSV files below this section have been superseded by the Astral data but kept for transparency. The calculation methodologies remain applicable.
+
 ## Farming Reward Allocations
-Final Gemini farming reward allocations (excluding Aries stress test and Stake Wars 1) can be found in the [CSV file](https://github.com/subspace/incentivized-testnets/blob/main/Final_farming_rewards.csv).
+Preview Gemini farming reward allocations (excluding Aries stress test and Stake Wars 1) can be found in the [CSV file](https://github.com/subspace/incentivized-testnets/blob/main/Final_farming_rewards.csv).
 
 ### Aries Stress Test
-Detailed breakdown of the data can be found in the [XLSX file](https://github.com/subspace/incentivized-testnets/blob/main/Aries%20Stress%20Test.xlsx) which was created as follows:
+Detailed preview of the data can be found in the [XLSX file](https://github.com/subspace/incentivized-testnets/blob/main/Aries%20Stress%20Test.xlsx) which was created as follows:
 1. Identify all wallets that participated in the Aries stress test.
 2. Determine Gemini rewards for each wallet.
 3. Any with a non-zero Gemini rewards balance have an equal share of the 0.1% allocation.
 
 ### Gemini Breakdown
-Detailed breakdown of all incentivized testnets and exact calculation formulas can be found in the [XLSX file](https://github.com/subspace/incentivized-testnets/blob/main/Subspace%20Testnet%20Token%20Distribution%20List_calculations_FINAL.xlsx) which was created as follows:
+Detailed preview of all incentivized testnets and exact calculation formulas can be found in the [XLSX file](https://github.com/subspace/incentivized-testnets/blob/main/Subspace%20Testnet%20Token%20Distribution%20List_calculations_FINAL.xlsx) which was created as follows:
 1. Calculate all tokens that were generated during each testnet period Gemini 1, 2, 3f and 3g  (total number of tokens)
 2. Calculate all rewards that were generated during each testnet period 3h pool 1 and 3h pool 2  (total number of rewards)
 3. Create a pivot table to list each wallet's participation in each testnet category
@@ -45,7 +52,7 @@ Detailed breakdown of all incentivized testnets and exact calculation formulas c
 ![Gemini 3 Incentivized Phases](<Testnet Reward Phases.png>)
 
 ## Stake Wars 1 Allocations
-Can be found in the [XLSX File](https://github.com/subspace/incentivized-testnets/blob/main/Stake%20Wars%201.xlsx). An explanation of the rewards structure can be found on [the Autonomys forum](https://forum.autonomys.xyz/t/stake-wars-introduction/2060#rewards-9).
+Preview data can be found in the [XLSX File](https://github.com/subspace/incentivized-testnets/blob/main/Stake%20Wars%201.xlsx). An explanation of the rewards structure can be found on [the Autonomys forum](https://forum.autonomys.xyz/t/stake-wars-introduction/2060#rewards-9).
 
 ## Node Archives
 Archive of Subspace incentivized testnets node databases includes:
