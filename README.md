@@ -4,7 +4,7 @@
 ## Astral Rewards Checker
 The quickest and easiest way to view your reward allocations is to connect your wallet to the rewards checker in Astral. You can find it [here](https://astral.autonomys.xyz/gemini-3h/testnet-rewards).
 
-The rewards checker is based on the data in [this spreadsheet](https://github.com/subspace/incentivized-testnets/blob/main/AstralTestnetRewards.xlsx) which consolidates all the information below at greater precision and rounds all allocations up to the next whole token. You can read more about moving from preview to final data on [the Autonomys forum](TODO). The same data is available as a CSV [here](https://github.com/subspace/incentivized-testnets/blob/main/AstralTestnetRewards.csv).
+The rewards checker is based on the data in [this spreadsheet](https://github.com/subspace/incentivized-testnets/blob/main/AstralTestnetRewards.xlsx) which consolidates all the information below at greater precision and rounds all allocations up to the next whole token. You can read more about moving from preview to final data on [the Autonomys forum](https://forum.autonomys.xyz/t/astral-rewards-checker-is-now-live/4492). The same data is available as a CSV [here](https://github.com/subspace/incentivized-testnets/blob/main/AstralTestnetRewards.csv).
 
 The preview spreadsheets and CSV files below this section have been superseded by the Astral data but kept for transparency. The calculation methodologies remain applicable.
 
