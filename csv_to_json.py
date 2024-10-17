@@ -18,7 +18,8 @@ with open(input_file, 'r') as csvfile:
     for row in csvreader:
         address = row[0].strip()
         balance = parse_number(row[1])
-        allocations.append([address, balance])
+        if balance > 0:
+            allocations.append([address, balance])
 
 with open(output_file, 'w') as jsonfile:
     json.dump(allocations, jsonfile, separators=(',', ':'))
