@@ -35,7 +35,7 @@ Detailed preview of all incentivized testnets and exact calculation formulas can
 1. Determine eligible wallets
 2. Distribute the allocation of 0.05% equally across all eligible wallets
 
-*UPDATE 2024-11-25: There was a miscalculation with the Gemini 2.1 rewards and they were allocated proportionally instead of evenly. Those who participated can check the [XLSX file](https://github.com/subspace/incentivized-testnets/blob/main/Gemini%202.1%20Testnet%20Rewards%20Analysis.xlsx) to see of they were affected. A full explanation can be found on [the forum]().*
+*UPDATE 2024-11-25: There was a miscalculation with the Gemini 2.1 rewards and they were allocated proportionally instead of evenly. Those who participated can check the [XLSX file](https://github.com/subspace/incentivized-testnets/blob/main/Gemini%202.1%20Testnet%20Rewards%20Analysis.xlsx) to see if they were affected. A full explanation can be found on [the forum]().*
 
 **Second Incentive (only wallets with 3 tSSC balance are qualified):**
 1. Calculate the relative reward for each wallet
