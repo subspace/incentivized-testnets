@@ -29,11 +29,13 @@ Detailed preview of all incentivized testnets and exact calculation formulas can
     1. Distribute the allocation of 0.3% to all wallets proportional to their relative reward
     2. Count all wallets that have participated in Gemini 1 (reported number 13,106) and divide 0.2% by the number of wallets
 2. Add this amount to all wallets that have participated in Gemini 1
-   
+  
 ### Gemini 2
 **First Incentive:**
-1. Calculate the relative reward for each wallet
-2. Distribute the allocation of 0.05% to all wallets proportional to their relative reward
+1. Determine eligible wallets
+2. Distribute the allocation of 0.05% equally across all eligible wallets
+
+*UPDATE 2024-11-25: There was a miscalculation with the Gemini 2.1 rewards and they were allocated proportionally instead of evenly. Those who participated can check the [XLSX file](https://github.com/subspace/incentivized-testnets/blob/main/Gemini%202.1%20Testnet%20Rewards%20Analysis.xlsx) to see if they were affected. A full explanation can be found on [the forum](https://forum.autonomys.xyz/t/gemini-2-phase-1-incentivized-testnet-rewards/4612).*
 
 **Second Incentive (only wallets with 3 tSSC balance are qualified):**
 1. Calculate the relative reward for each wallet
